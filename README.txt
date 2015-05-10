@@ -5,7 +5,7 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
 
 L4b3r7nth is an esoteric programming language focused around spreadsheets.
 
-https://github.com/zippynk/l4b3r7nth-spec
+https://github.com/zippynk/l4b3r7nth
 
 Syntax:
 BEGIN |METHOD_NAME| DIRECTION INCREMENT
