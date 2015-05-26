@@ -67,3 +67,5 @@ Cell types:
 Removed Modules:
 CREATE, SET, and DELETE. Use data cells.
 END |module|. Changed to "FINISH ||" and no module is specified - it just ends the current one.
+
+Join the chat at https://gitter.im/zippynk/L4b3r7nth
